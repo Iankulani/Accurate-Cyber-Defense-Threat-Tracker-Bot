@@ -19,10 +19,15 @@ Its Telegram integration reduces alert fatigue and empowers users to act promptl
 Whether deployed in corporate networks, educational institutions, or small business environments, this tool offers a reliable, always-on line of defense. 
 It’s not just a bot—it’s your real-time cyber guardian, ensuring constant visibility and protection against the ever-evolving digital threat landscape.
 
-**How to install** 
+## How to install
+
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Threat-Tracker-Bot.git
+cd Accurate-Cyber-Defense-Threat-Tracker-Bot.
+```
 
-**How to run**
-
+## How to run
+```bash
 python Accurate-Cyber-Defense-Threat-Tracker-Bot.py
+```
